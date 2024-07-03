@@ -21,5 +21,9 @@ ________________________________________________________________________________
 Cloud Computing Ecosystem - It’s important to understand that an ecosystem of participants defines the market. This ecosystem consists of three categories of players:
 
 Consumers of Services
-These are the everyday end-users (like yourself or your colleagues) that use cloud services in their day-to-day business activities. They often may have little understanding of where the service resides or how it is designed; they simply need the capabilities to get the job done.
+These are the everyday end-users (like yourself or your colleagues) that use cloud services in their day-to-day business activities. They often may have little understanding of where the service resides or how it is designed; they simply need the capabilities to get the job done. Microsoft OneDrive, Google Drive, iCloud
 
+Provider of Services
+These cloud providers offer a variety of functions ranging from infrastructure services to applications and tools.
+ Examples of prominent providers:Amazon Web Services, 
+ 
