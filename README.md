@@ -81,5 +81,7 @@ Infrastructure as a Service (IaaS):  The hardware infrastructure is provided to 
 Platform as a Service (PaaS):  The service structure is provided by the CSP. It is up to the consumer to populate that structure, manage it on a day-to-day basis, and assume responsibility for the content. Support for the hardware, as well as the service platform that hosts the content, is offloaded to the CSP.
 Software as a Service (SaaS):  The consumer is being provided with the direct use of the software. Responsibility for the hardware where that software runs, the operating system upon which it runs, and the installation and patching of the software itself are all offloaded to the CSP.
 _____________________________________________________________________________________________________
-The Computing Resources Life Cycle
+Embracing the Business Imperative
+Understanding IT Transformation
+With the rise of commercial cloud computing vendors and services, the role of IT is changing dramatically. While the IT organization in the past had total control of computing resources, now IT is tasked with providing oversight, management, and vetting of options. IT must be able to provide the business with ways to integrate processes and data across silos. The security organization is also responsible for ensuring security and compliance. 
 
