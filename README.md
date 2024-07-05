@@ -25,5 +25,58 @@ These are the everyday end-users (like yourself or your colleagues) that use clo
 
 Provider of Services
 These cloud providers offer a variety of functions ranging from infrastructure services to applications and tools.
- Examples of prominent providers:Amazon Web Services, 
- 
+Examples of prominent providers:Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud, Oracle Cloud Infrastructure, Alibaba Cloud.
+
+Provider of Services
+These cloud providers offer a variety of functions ranging from infrastructure services to 
+applications and tools.
+
+Designer of Services
+These companies build applications and tools. Often services are intended to work within a specific cloud ecosystem or can augment a packaged cloud application. 
+
+Here are some companies that specialise in designing and implementing cloud technologies: accenture, deloitte, capgemini, IBM, PwC etc.\
+
+Understanding Cloud Concepts
+
+Cloud computing is a method of providing shared computing resources, including applications, computing, storage, networking, development, and deployment platforms as well as business processes. Cloud computing makes computing resources easier to use by providing standardization and automation.
+
+Standardization is the implementation of services using a consistent approach supported by a set of consistent interfaces. Likewise, the cloud generally requires that processes be implemented through the use of automation.
+
+Automation is a process that’s triggered based on business rules, resource availability, and security demands. Automation is required to support a self-service provisioning model. To promote efficiency, automation can ensure that after a provisioned service is no longer needed, it is returned to the resource pool. This type of rules-based automation can help with capacity planning and overall workload management. 
+____________________________________________________________________________________________________
+Understanding Cloud Deployment Models
+
+Cloud Components and Clients
+There are three main components in a cloud services solution. The first component is the client platform from which the cloud services are being accessed. The second is the data center where the cloud services are being hosted. The final component is the network connection between those two points.
+
+Public cloud:  A CSP owns the cloud deployment and allocates its resources to external, unaffiliated customers. Those customers share the public cloud’s resources without knowing precisely where their data is in relation to that of any other organization.
+Private cloud:  Services are provided to only a single organization.
+Hybrid cloud:  There is a combination of two or more private, public, or community deployments
+
+The public cloud is a set of hardware, networking, storage, services, applications, and interfaces owned and operated by a third party for use by other companies or individuals. CSPs offer public cloud services to virtually any customer. Customers use a subscription model to pay for access.  
+
+The Private Cloud
+
+A private cloud is a set of hardware, networking, storage, services, applications, and interfaces owned and operated by an organization for the use of its employees, partners, or customers. A private cloud can be created and managed by a third party for the exclusive use of one enterprise.  The organization retains complete control of the cloud deployment but can leverage the advantages of cloud technologies. This is especially viable for very large enterprises. The private cloud is a highly controlled environment not open for public consumption. Thus, a private cloud sits behind a firewall. The private cloud is highly automated with a focus on governance, security, and compliance.
+
+The Hybrid and Multicloud Model
+
+A hybrid I is a combination of a private cloud combined with the use of public cloud services where the two cloud environments work together to solve business problems. The goal is to create a hybrid cloud environment that can combine services and data from a variety of cloud models to create a unified, automated, and well-managed computing environment. In a well-orchestrated hybrid cloud environment, end-users won’t think about whether they are using on-premises or cloud services — it will all just be a technology service.
+
+Cloud Within a Cloud (Virtual Private Cloud)
+
+Also known as a virtual private cloud (VPC), the concept of cloud within a cloud means a public CSP hosts your organization’s cloud services in an isolated segment, separated from any resources shared with other companies. While your cloud services exist within a public cloud, those resources are private and unshared. Your organization takes full administrative responsibility.
+
+Multitenancy
+
+This is the concept behind public cloud deployments. Multiple consumers, known as tenants, share computing resources owned and managed by the CSP. This is the opposite idea from a VPC deployment. It is multitenancy that provides the cost benefits behind shared resource utilization.
+
+Multi-cloud
+
+There are many multi-cloud variations, but some of the most common are combinations of cloud services spread among two or more public CSPs (such as AWS and Azure) as well as on a private cloud infrastructure. Multi-cloud deployments reduce reliance on a single vendor, provide greater service flexibility and choice, permit improved geographic control of data, and help manage disaster mitigation.
+________________________________________________________________________________________________
+Cloud Delivery Models
+
+Infrastructure as a Service (IaaS):  The hardware infrastructure is provided to the consumer. The consumer assumes responsibility for all layers above that hardware. The CSP manages hardware failures, firmware updates, device drivers, and hardware compatibility. The consumer installs and manages the operating system on top of the hardware as well as any services and applications that run above that operating system.
+Platform as a Service (PaaS):  The service structure is provided by the CSP. It is up to the consumer to populate that structure, manage it on a day-to-day basis, and assume responsibility for the content. Support for the hardware, as well as the service platform that hosts the content, is offloaded to the CSP.
+Software as a Service (SaaS):  The consumer is being provided with the direct use of the software. Responsibility for the hardware where that software runs, the operating system upon which it runs, and the installation and patching of the software itself are all offloaded to the CSP.
