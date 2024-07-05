@@ -80,3 +80,6 @@ Cloud Delivery Models
 Infrastructure as a Service (IaaS):  The hardware infrastructure is provided to the consumer. The consumer assumes responsibility for all layers above that hardware. The CSP manages hardware failures, firmware updates, device drivers, and hardware compatibility. The consumer installs and manages the operating system on top of the hardware as well as any services and applications that run above that operating system.
 Platform as a Service (PaaS):  The service structure is provided by the CSP. It is up to the consumer to populate that structure, manage it on a day-to-day basis, and assume responsibility for the content. Support for the hardware, as well as the service platform that hosts the content, is offloaded to the CSP.
 Software as a Service (SaaS):  The consumer is being provided with the direct use of the software. Responsibility for the hardware where that software runs, the operating system upon which it runs, and the installation and patching of the software itself are all offloaded to the CSP.
+_____________________________________________________________________________________________________
+The Computing Resources Life Cycle
+
