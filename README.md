@@ -85,3 +85,22 @@ Embracing the Business Imperative
 Understanding IT Transformation
 With the rise of commercial cloud computing vendors and services, the role of IT is changing dramatically. While the IT organization in the past had total control of computing resources, now IT is tasked with providing oversight, management, and vetting of options. IT must be able to provide the business with ways to integrate processes and data across silos. The security organization is also responsible for ensuring security and compliance. 
 
+____________________________________________________________________________________________________
+
+Rethinking the Type of Constituents Your Cloud Serves
+
+Cloud consumers:  The individuals and groups within your business unit that use different types of cloud services to get a task accomplished. A cloud consumer could be a developer using computing services from a public cloud.
+Direct customers:  Users who often take advantage of services that your business has created within a cloud environment. End users of your service have no idea that you are using a public or private cloud. As far as the users are concerned, they are interacting directly with your services and value.
+Cloud service provider:  Commercial vendors or companies that create their own capabilities. Commercial vendors sell their services to cloud consumers. In contrast, a company might decide to become an internal cloud service provider to its own employees, partners, and customers — either as an internal service or as a profit center. These providers also create applications or services for these environments.
+
+Optimizing SaaS Management
+Once a business has set the ground rules for using SaaS within the organization and educated users on the best practices of using public SaaS applications, it can take additional steps to improve costs, productivity, and security. As use of SaaS applications expands through an enterprise, IT and security teams should review use of SaaS applications. Security should examine actual use to understand whether any practices are risking loss of the business’s intellectual property (IP), opening up connections that hackers can exploit or where other insecure activities can occur.
+___________________________________________________________________________________________________
+Service Level Agreements (SLAs)
+
+Every cloud resource comes with a contractual agreement, known as a service level agreement (SLA), that outlines what the provider is delivering, along with the customer’s responsibilities. The agreement should outline characteristics like availability, accuracy, response time, throughput, and security. These important traits are critical for selecting resources that will meet the performance requirements of the services or applications that will use them.
+
+Managing a hybrid cloud environment
+Businesses are increasingly leveraging a combination of public and private clouds. The combination of these resources provides the benefits of scalability, flexibility, and performance to their internal computing consumers.
+
+Supporting Cloud Customers
