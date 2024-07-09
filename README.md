@@ -158,3 +158,13 @@ Prevent vendor lock-in. Lock-in occurs when you are so entrenched with a particu
 Integrate applications more easily between your on-premises data center and private and public cloud environments. Face it; integrating your assets across multiple environments can be time-consuming and costly if every cloud provider has a proprietary model. Standards help to make integration easier and eliminate many common barriers.
 
 __________________________________________________________________________________________________
+The Importance of Modularity
+Application development is simplified because each microservice is built to serve a specific and limited purpose. Small development teams can focus on writing code for narrowly defined and more easily understood functions.
+Code changes will be smaller and less complex than with a complex integrated application, making it easier and faster to make changes, whether to fix a problem or to upgrade a service with new requirements.
+Scalability — both up and down — makes it simpler to deploy an additional instance of a service or change that service as needs evolve.
+Microservices are fully tested and validated. When new applications leverage existing microservices, developers can assume the integrity of the new application without the need for continual testing.
+
+The Cloud Native Computing Foundation offers a clear definition of cloud native:
+Container packaged: A standard way to package applications that is resource efficient. More applications can be densely packed using a standard container format.
+Dynamically managed: A standard way to discover, deploy, and scale up and down containerized applications.
+Microservices oriented: A method to decompose the application into modular, independent services that interact through well-defined service contracts.
