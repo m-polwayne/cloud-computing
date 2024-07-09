@@ -104,3 +104,57 @@ Managing a hybrid cloud environment
 Businesses are increasingly leveraging a combination of public and private clouds. The combination of these resources provides the benefits of scalability, flexibility, and performance to their internal computing consumers.
 
 Supporting Cloud Customers
+______________________________________________________________________________________________________
+What are Standards?
+Standards are established common and repeatable practices that have been agreed to by a business or group. An open standard is one that is publicly and freely available, one that has been developed in a public context where anyone who is affected by the standard can contribute. An open standard assumes that experienced developers will contribute to the viability of the offering. Typically, different vendors, groups, and end users collaborate to develop standards based on the broad expertise of a large number of stakeholders. Organizations can leverage these standards as a common foundation and build on top of them.
+
+Evolution of Standards
+
+Standards have generally been established in four ways:
+
+Multinational bodies:  Treaties or other similar international legal agreements typically govern these bodies. These groups generally have long procedures and red tape before an agreement is reached. Members may be diplomats instead of technical experts. The International Organization for Standards (ISO) is one such group and is comprised of representatives from countries all over the world. ISO has developed more than 17,500 standards covering many subject areas, and new standards are developed every year.
+Industry consortiums:  A consortium is typically an organized group dedicated to developing standards for a specific industry requirement. Even though the members may be competitors, they know that coming together will help everyone. These groups are often more streamlined and agile than international bodies and often directly engage technical experts in the process. The Apache Group, The Open Group, World Wide Web Consortium, and OASIS are some examples of industry consortiums.
+An ad hoc group:  Ad hoc groups are self-organized and governed. These groups are often built around open-source initiatives. They can be a loose body that discusses their matters through an Internet message board, or they may be more formally organized. These groups have even fewer processes than industry consortiums and are therefore able to quickly adapt and change as technology moves. A downside to the lower process overhead is that when difficult decisions need to be made or problems arise, getting to the correct solution and reaching a consensus may be difficult or impossible.
+De facto standards:  A de facto standard emerges when an approach or product is used so extensively used that it becomes a standard. The important distinction is that a de facto standard is not created by a specific body or organization, but instead develops through practice. Often, de facto standards emerge when industry best practices converge.
+
+According to the National Institute of Standards and Technology (NIST), standards can be categorized based on their level of maturity:
+None
+Under development
+Approved
+A reference
+Market accepted (in widespread use)
+Retired
+
+For a standard to truly succeed, it needs to be:
+Broadly recognized and adopted by vendors,
+Broadly adopted and demanded by consumers,
+Open source.
+
+ areas, where standards are being broadly developed, include the following:
+Interoperability
+Portability
+Security
+
+Interoperability
+Interoperability is the ability for independent systems to work together and/or share information. One of the most important aspects of interoperability is the ability to enable applications to exchange data in a multicloud or on-premises data centre. It also includes independent cloud deployments working together, such as public clouds from different vendors or interoperability between a private cloud and an external public cloud
+
+Portability
+Portability enables you to take applications, data, or instances running on one vendor’s system and deploy it on another vendor’s implementation. For example, you may want to move your data or application from one cloud environment to another. Or you may want to use IaaS services to gain additional compute power from a variety of public clouds during peak demand times or when on-premises resources are otherwise tied up
+
+Security
+Cloud security is a significant concern and one must make sure that the right controls, procedures, and technology are in place to protect your corporate assets. Your organization has invested a great deal internally to protect your assets, and it is reasonable to assume that your cloud provider will do the same. A sound security strategy is especially true in a hybrid environment where your private cloud or data centre has touchpoints with public cloud services.
+Cloud security standards are a set of processes, policies, and best practices that ensure the proper controls are placed over an environment to prevent application, information, identity, and access issues (to name a few).
+
+Authentication and authorization: Several standards are in use to verify the identity of a person or computer.
+Security monitoring and incident response: Some standards have been approved to handle security monitoring and incident response, including the best practices developed by NIST in the NIST SP 800-61Rev. 2 Computer Security Incident Handling Guide.
+Confidentiality, integrity, and availability of data: A number of standards that have been on the market for some time deal with encryption of data, keys, and data transport. These standards include the Key Management Interoperability Protocol (KMIP), developed by OASIS, 
+Security policy management: These standards set forth best practices and procedures for implementing policies around security. FIPS 200: Minimum Security Requirements for Federal Information and Information Systems developed by NIST is an example of this kind of standard.
+
+The Impact of Standards on the Multicloud
+Standards let you do the following:
+
+Move your infrastructure or applications from one cloud provider to another. With cloud standards across clouds, you do not have to rewrite code. In a multicloud world, where you may have part of the resources associated with an application on your own premises and part with a cloud provider, this capability is important because it enables your organization to be more flexible about where your resources may be located.
+Prevent vendor lock-in. Lock-in occurs when you are so entrenched with a particular provider and its interfaces that moving to another provider is too costly. Removing barriers to lock-in increases your choices.
+Integrate applications more easily between your on-premises data center and private and public cloud environments. Face it; integrating your assets across multiple environments can be time-consuming and costly if every cloud provider has a proprietary model. Standards help to make integration easier and eliminate many common barriers.
+
+__________________________________________________________________________________________________
