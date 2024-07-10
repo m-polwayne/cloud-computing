@@ -243,3 +243,20 @@ Azure has a great collection of database services to select from depending on th
 Identity Management and Security Services
 Secure your organization’s cloud resources against advanced modern threats using the identity management and security services in Azure.
 
+What is a Siem System?
+SEIM is the abbreviation of Security Information and Event Management which is a computer security system that can be used as a tool to collect, analyze, and perform security operations on computer systems, which can be applications or hardware. 
+
+Azure Management Groups
+Azure Management Groups is the top level of the core structure of managing your cloud resources in Azure. It is useful in organizing and structuring your resources in Microsoft Azure. The management groups are where Azure administrators manage everything about user access, compliance, and policies for subscriptions. The subscriptions within a management group automatically inherit the settings, conditions, and restrictions added to the group.
+
+Azure Subscriptions
+Subscriptions in Azure are like a big container for all accounts of users and what resources they have accessed or used within the subscription. Every subscription usually has a limit on the amount of resources a certain user can create and use. As an organization, you can use subscriptions to control the monthly bill and resources costs in your organization or your own Azure account. Using an Azure subscription, the organization can also control what resources the users create, update, or delete.
+
+Azure Resource Groups
+Azure users can group their services or resources using Azure Resource Groups. A resource group in Microsoft Azure acts as a logical container where resources like servers, web applications, databases, storage, monitoring, etc. are deployed, managed, and stored. Do not confuse a Resource Group for Availability Set in Azure. The Availability Set is the logical group for Virtual Machines (VMs).
+
+Azure Resources
+The databases, servers, virtual machines or web applications you create on Azure platform are considered Azure resources. All resources or services you create must be in added in a Resource Group. which acts as the logical container. In a resource group, you can have your web apps, servers, monitoring, compute services, etc. in one place. 
+
+Azure Resource Manager
+Azure Resource Manager (ARM) is also an important element in managing resources in Azure. ARM is the management and deployment service that provides users the capability to add, edit and delete resources in Azure. By using ARM, the organization can manage user access control and organize resources securely even after deployment.
