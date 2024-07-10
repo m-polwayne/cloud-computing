@@ -168,3 +168,78 @@ The Cloud Native Computing Foundation offers a clear definition of cloud native:
 Container packaged: A standard way to package applications that is resource efficient. More applications can be densely packed using a standard container format.
 Dynamically managed: A standard way to discover, deploy, and scale up and down containerized applications.
 Microservices oriented: A method to decompose the application into modular, independent services that interact through well-defined service contracts.
+____________________________________________________________________________________________________
+What is Microsoft Azure? Microsoft’s computing platform is called Microsoft Azure, also known as Azure.
+Azure is a public cloud provider, but they also offer private, hybrid, and multi-cloud solutions to its users. Cloud services in Azure are designed to help its users build new and innovative cloud solutions that help solve our challenges in different areas
+
+High availability
+Microsoft Azure provides high availability and redundancy across all of its worldwide data centers offering a service-level agreement that ensures 99.95% availability.
+
+Geo-distribution
+Azure helps global enterprises by providing geo-distribution features. Geography-specific endpoints enable international enterprises to comply with regional compliance and regulations.
+
+Scalability On-demand
+When the demand for complexity, traffic, and data expands, there should be a flexible and quick way to handle such needs.
+
+Reliability
+The system or application hosted should function correctly even in the face of adversity (hardware or software faults, and even human error).
+
+Elasticity
+A capability to automatically scale cloud resources based on configuration or demand.
+
+Disaster recovery
+When your applications, data, and systems are hosted in Azure, you can be assured of secured end-to-end backup and disaster recovery solutions.
+
+Flexibility
+Cloud services in Azure give organizations flexibility by allowing them to use consumption pricing plans and full self-service management accessible anywhere.
+
+Cost Management Tools
+There are tools available for cost management in Azure and users can also set budget alerts for their resource groups and resources.
+
+Advanced Compliance
+Azure takes information security and compliance seriously with high standards to best serve its users.
+
+High Level Cloud Security
+Azure protects all stored data with world-class and advanced security. Data stored in Azure are protected with advanced encryption technologies. All data centers at Microsoft are equipped with extreme security with biometric scanners, multi-level authentication, and more.
+
+OpEx vs. CapEx
+Hosting to the cloud means an organization can save money from Capital Expenditures (CapEx) and only pay for Operational Expenditures (OpEx).
+
+Consumption-based pricing model
+Azure gives its users the flexibility of cost management by offering consumption-based (Pay-As-You-Go) pricing model in most of its cloud services.
+
+No deep technical skills required
+You and your organization do not need to be very skilled technically to get started using the cloud platform. Azure provides flexible and diverse options to give ease of use to its users.
+___________________________________________________________________________________________________
+Azure Portal
+The self-managed portal of Microsoft’s cloud platform is called the Azure Portal, which can be accessed by Azure users on their web browsers or via the Azure Mobile App. It is a web-based administration website for all types of Azure users. It is where you can manage your Azure cloud services for your organization. It is a powerful portal of cloud administration tools and resources you need.
+
+The following are some of the known features of the Azure Portal:
+
+Create, build, manage and monitor Azure services and cloud resources all in one place at anytime and anywhere at your own convenience,
+Use command line tools and cloud shell for quick creation and deployments,
+Manage and organize Azure Subscriptions and create management groups that help in structuring and governing Azure resources,
+Azure Active Directory (Azure AD) as a great tool for the management of identity, access, and permissions to resources,
+Configure and manage privacy, data, security, policies and compliance which is vital for the organization’s governance,
+Customization of portal’s dashboards helps in getting a quick overview of the status of resources right after you logged in,
+Take control of monthly costs by monitoring resources through spending limits and budget alerts using Azure Cost Management in the Azure Portal,
+Search everything you need to know, create, build and manage using the Global Search feature in the portal,
+Send Azure Support requests directly when you need assistance or help.
+____________________________________________________________________________________________________
+Microsoft Azure Services  Azure services helps you build and integrate cloud solutions based on your business requirements or needs. 
+
+Compute Services in Azure
+Compute is usually the term used for computing resources. Compute services hosted in Azure provide computing resources like the operating systems, networking, disks, processors, networking, and memory. These computing resources are available quickly and on-demand by its users. Every application is unique. An application can have many workloads that need more than one computing service.
+
+Networking Services in Azure
+Networking in the cloud is important in all aspects of cloud hosting. Networking services help secure both private and public cloud infrastructure. Users can customize their cloud networking setup and manage their network resources on demand.
+
+Core Azure Storage Services
+The storage services in Azure offer great storage for any types of data objects, Azure Virtual Machine disk storage, reliable messaging storage, and other modern data types that need to be stored. They provide the benefits of high availability, durability, security, accessibility and manageability.
+
+Core Azure Database Services
+Azure has a great collection of database services to select from depending on the type of data structure you need for your organization. The different types of database services in Azure are fully managed. There are appropriate databases for your data - relational, NoSQL, in-memory databases, and other modern databases.
+
+Identity Management and Security Services
+Secure your organization’s cloud resources against advanced modern threats using the identity management and security services in Azure.
+
